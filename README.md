@@ -1,24 +1,35 @@
-<h1 align="center">Hi 👋, I'm Prabal Pratap Singh</h1>
-<h3 align="center">A passionate Developer & AI Enthusiast</h3>
+# Hi 👋, I'm Prabal Pratap Singh
+
+<h3 align="center">AI Enthusiast • Developer • Data Science Student at IIT Guwahati</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imprabal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br /><br />
+  <a href="https://github.com/imprabal">
+    <img src="https://img.shields.io/github/followers/imprabal?label=Followers&style=social" alt="GitHub followers" />
+  </a>
 </div>
 
-<br />
+---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Neuron AI](https://github.com/Imprabal/Neuron_AI)**
-- 🌱 I'm currently pursuing a **BSc (Hons) in Data Science and Artificial Intelligence** at [IIT Guwahati](https://www.iitg.ac.in/).
-- 📊 I have a strong interest in building datasets and exploring the **Kaggle** community.
-- 🚀 Gearing up for upcoming tech competitions and hackathons.
-- 📫 How to reach me: **[prabal.singh@op.iitg.ac.in](mailto:prabal.singh@op.iitg.ac.in)**
+- 🎓 Pursuing **BSc (Hons) in Data Science & Artificial Intelligence** at **IIT Guwahati**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Open Source**
+- 📊 Enjoy working with **datasets, Kaggle competitions, and practical AI projects**
+- 🚀 Preparing for **hackathons, tech competitions, and real-world problem solving**
+- 🌱 Currently learning more about:
+  - LLMs and AI Agents
+  - Backend Development
+  - Data Engineering
+  - Open Source Contribution
 
-### 🌐 Connect with me
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/prabal-pratap-singh/" target="_blank">
+  <a href="https://www.linkedin.com/in/prabal111/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/prabal2775" target="_blank">
@@ -27,23 +38,37 @@
   <a href="https://kaggle.com/prabalpratapsingh00" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
-</p>
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,github" alt="My Skills" />
+  <a href="https://huggingface.co/Prabal00" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
 </p>
 
-### 📈 My Stats
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,git,github,vscode,mysql" alt="Skills" />
+</p>
+
+
+
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imprabal&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imprabal&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com?user=imprabal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-<br />
+
+---
+
+## 📫 Reach Me
+
+- 📧 **prabal.singh@op.iitg.ac.in**
+
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imprabal&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <b>Building AI solutions one project at a time.</b>
 </div>
